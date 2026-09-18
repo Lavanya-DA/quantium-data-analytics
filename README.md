@@ -159,7 +159,7 @@ quantium-data-analytics/
 ├── tasks/
 │   ├── Task1.pdf
 │   ├── Task2.pdf
-│   └── Task 3 (Report).pdf
+│   └── Task3 (Report).pdf
 │
 ├── notebooks/
 │   ├── Task1.ipynb
